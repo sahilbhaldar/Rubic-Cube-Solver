@@ -42,3 +42,6 @@ The camera color analyzer samples the sticker regions and classifies colors in L
 - A camera for the cube scanning flow
 
 The app's minimum supported Android version is API 24. The project compiles against API 35 and targets API 35. Camera permission is required for scanning. Cube solving runs offline after installation; spoken instructions depend on an available Android text-to-speech engine.
+
+## Demo
+https://github.com/user-attachments/assets/ace00e4f-a04f-47fc-9ed6-ba0e7a4ae6ed
