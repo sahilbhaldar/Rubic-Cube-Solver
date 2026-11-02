@@ -45,3 +45,8 @@ The app's minimum supported Android version is API 24. The project compiles agai
 
 ## Demo
 https://github.com/user-attachments/assets/ace00e4f-a04f-47fc-9ed6-ba0e7a4ae6ed
+
+## DebugApk File
+You can find in root folder
+
+
