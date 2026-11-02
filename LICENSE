@@ -1,21 +1,27 @@
-MIT License
+PolyForm Noncommercial License 1.0.0
+https://polyformproject.org/licenses/noncommercial/1.0.0
 
-Copyright (c) 2026 sahilbhaldar
+Required Notice: Copyright (c) 2026 Sahil Salim Bhaldar. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Purpose & Acceptance
+This repository is published strictly for educational, personal study, and research purposes. By accessing, cloning, downloading, or forking this code, you agree to these terms.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Permitted Uses
+You are granted a non-exclusive, royalty-free license to view, clone, test, and run the software solely for:
+- Personal learning and skill development
+- Non-commercial academic research and classroom study
+- Hobby and amateur experimentation without commercial intent
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Commercial Restrictions (No Monetization)
+Any commercial purpose is strictly prohibited. You may NOT:
+- Sell, license, rent, or monetize this software, in whole or in part.
+- Use this code, or any fork or derivative work, in any commercial app, product, or enterprise service.
+- Re-distribute this software under different terms that permit monetization.
+
+4. Forking and Distribution
+You may fork or distribute copies solely for non-commercial educational purposes, provided that:
+- You retain this original copyright notice and license text in full.
+- You do not use the work to endorse, sponsor, or advertise any commercial product.
+
+5. Disclaimer of Warranty
+This software is provided "as is", without warranty of any kind, express or implied. In no event shall the author or copyright holder be liable for any claim, damages, or other liability.
